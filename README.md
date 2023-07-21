@@ -1,5 +1,5 @@
 
-<img src='images/2014-11.jpg'
+<img src='images/2014-11.jpg'>
 
 
 # DataProject
